@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyComp.qml</file>
+        <file>PageHeader.qml</file>
+        <file>PageMessageEditor.qml</file>
+        <file>PageBackground.qml</file>
+    </qresource>
+</RCC>

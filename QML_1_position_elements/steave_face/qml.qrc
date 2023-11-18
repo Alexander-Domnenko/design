@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyComp.qml</file>
+        <file>EyesComp.qml</file>
+        <file>MouthComp.qml</file>
+        <file>HairstyleComp.qml</file>
+    </qresource>
+</RCC>

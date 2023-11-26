@@ -2,8 +2,7 @@ import QtQuick 2.15
 import QtQuick.Controls 2.15
 
 
-ApplicationWindow {
-    visible: true
+Window {
     width: 300
     height: 250
 

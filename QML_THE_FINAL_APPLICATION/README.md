@@ -1,3 +1,5 @@
+# Art calc App
+## [Concept and description]()
 ![Снимок экрана 2024-02-24 133813](https://github.com/Alexander-Domnenko/design/assets/91257943/2c3905ed-c051-4d7b-9a11-84e5adbc9b1d)
 ![Снимок экрана 2024-02-24 133841](https://github.com/Alexander-Domnenko/design/assets/91257943/6934ae7d-76aa-4fe0-b2d1-b16c085b27cd)
 ![Снимок экрана 2024-02-24 133901](https://github.com/Alexander-Domnenko/design/assets/91257943/bfb3fd14-feac-4103-baa9-eee4de289d02)

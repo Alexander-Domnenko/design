@@ -1,4 +1,4 @@
-implementation of an adaptive messenger model with the ability to add messages.
+Implementation of an adaptive messenger model with the ability to add messages.
 
 ---
 
